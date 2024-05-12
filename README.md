@@ -1,4 +1,5 @@
-Portfolio Project: Discussion GroupSite
+Portfolio Project: Discussion Group Site
+<span style="font-size:16px;">This text will be 16px in size.</span>
 Overview
 Welcome to the Discussion Group Site, a portfolio project aimed at creating a platform for small discussion groups. This site enables individuals with shared interests to come together, engage in discussions, share information, and connect with like-minded individuals. The project is designed to foster a sense of community and facilitate meaningful interactions among its users.
 
