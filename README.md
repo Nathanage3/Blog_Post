@@ -1,7 +1,7 @@
 ## <span style='font-size: 28px'> Portfolio Project: Discussion Group Site </span>
 ## <span style='font-size: 18px'>Overview </span>
-Welcome to the 
-## <span style='font-size: 14px, font-weight: 400'>Discussion Group Site</span>
+
+## <span style='font-size: 24px, font-weight: 200'>Welcome To The Discussion Group Site <span>
  A portfolio project aimed at creating a platform for small discussion groups. This site enables individuals with shared interests to come together, engage in discussions, share information, and connect with like-minded individuals. The project is designed to foster a sense of community and facilitate meaningful interactions among its users.
 
 ## <span style='font-size: 18px'> Key Features </span>
